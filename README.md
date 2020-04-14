@@ -3,7 +3,7 @@ import mysql.connector as db
 mydb = db.connect(
     host='localhost',
     user='root',
-    passwd='b77qfdp27w',
+    passwd='xx',
     database='InfoAeropuertos'
 )
 
